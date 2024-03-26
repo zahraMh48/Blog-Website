@@ -1,0 +1,29 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+*.sqlite3
+*.iml
+*.xml
+*.idea
+config/.env
+*.log
+*.pot
+*.pyc
+__pycache__
+media
+staticfiles
+*.bak 
+*.py[cod] 
+*$py.class 
+.vscode/* 
+.vscode/settings.json 
+.vscode/tasks.json 
+.vscode/launch.json 
+.vscode/extensions.json 
+.history
+venv/
